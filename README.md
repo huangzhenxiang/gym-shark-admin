@@ -1,1 +1,1 @@
-#gym_shark_admin
+#gym-shark-admin
